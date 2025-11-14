@@ -242,13 +242,6 @@ Routes are protected based on user roles:
 - `npm run preview` - Preview production build
 - `npm run lint` - Run ESLint
 
-## Browser Support
-
-- Chrome (latest)
-- Firefox (latest)
-- Safari (latest)
-- Edge (latest)
-
 ## License
 
-MIT
+Apache
