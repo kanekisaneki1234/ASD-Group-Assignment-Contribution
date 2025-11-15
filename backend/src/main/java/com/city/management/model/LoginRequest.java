@@ -1,12 +1,12 @@
 package com.city.management.model;
 
-import lombok.AllArgsConstructor;
+// import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
 @Data
 @NoArgsConstructor
-@AllArgsConstructor
+// @AllArgsConstructor
 public class LoginRequest {
     private String username;
     private String password;

@@ -29,7 +29,8 @@ public class DashboardOverview {
     @AllArgsConstructor
     public static class DataPoint {
         private String label;
-        private double value;
+        // private double value;
+        private int value;
     }
 
     @Data
